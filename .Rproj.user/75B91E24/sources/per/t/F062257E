@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600363688046.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "39099447",
+    "id" : "F062257E",
+    "lastKnownWriteTime" : 1597975585,
+    "last_content_update" : 1597975585,
+    "path" : "/Volumes/MiniDrive/Dropbox/daugherty-lab/ChrisRNA/scripts/allSamples_NIN-KO_induced_to_NIN-KO.r",
+    "project_path" : "scripts/allSamples_NIN-KO_induced_to_NIN-KO.r",
+    "properties" : {
+        "cursorPosition" : "45,0",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,7 @@
+SamNum	SamName	Project	Run	Condition
+7	Induced_RPM252_1	SEQ0001	RPM252_induced_1_quant	NINL-KO_induced
+8	Induced_RPM252_2	SEQ0001	RPM252_induced_2_quant	NINL-KO_induced
+9	Induced_RPM252_3	SEQ0001	RPM252_induced_3_quant	NINL-KO_induced
+10	Uninduced_RPM252_1	SEQ0001	RPM252_uninduced_1_quant	NINL-KO
+11	Uninduced_RPM252_2	SEQ0001	RPM252_uninduced_2_quant	NINL-KO
+12	Uninduced_RPM252_3	SEQ0001	RPM252_uninduced_3_quant	NINL-KO

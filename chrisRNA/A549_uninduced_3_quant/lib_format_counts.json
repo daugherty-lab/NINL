@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /home/bryantc/scratch/sequencingDataStorage/chrisRNA/A549_Untreated_Rep_3_S32_L003_R1_001.fastq.gz, /home/bryantc/scratch/sequencingDataStorage/chrisRNA/A549_Untreated_Rep_3_S32_L003_R2_001.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 28891177,
+    "num_assigned_fragments": 28891177,
+    "num_frags_with_concordant_consistent_mappings": 26290373,
+    "num_frags_with_inconsistent_or_orphan_mappings": 2795694,
+    "strand_mapping_bias": 0.000005058860411435215,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 133,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 26290373,
+    "SF": 1520507,
+    "SR": 1275054,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

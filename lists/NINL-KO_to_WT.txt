@@ -1,0 +1,7 @@
+SamNum	SamName	Project	Run	Condition
+4	Uninduced_A549_1	SEQ0001	A549_uninduced_1_quant	WT
+5	Uninduced_A549_2	SEQ0001	A549_uninduced_2_quant	WT
+6	Uninduced_A549_3	SEQ0001	A549_uninduced_3_quant	WT
+10	Uninduced_RPM252_1	SEQ0001	RPM252_uninduced_1_quant	NINL-KO
+11	Uninduced_RPM252_2	SEQ0001	RPM252_uninduced_2_quant	NINL-KO
+12	Uninduced_RPM252_3	SEQ0001	RPM252_uninduced_3_quant	NINL-KO

@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /home/bryantc/scratch/sequencingDataStorage/chrisRNA/RPM252_Untreated_Rep_2_S37_L003_R1_001.fastq.gz, /home/bryantc/scratch/sequencingDataStorage/chrisRNA/RPM252_Untreated_Rep_2_S37_L003_R2_001.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 23146878,
+    "num_assigned_fragments": 23146878,
+    "num_frags_with_concordant_consistent_mappings": 20934507,
+    "num_frags_with_inconsistent_or_orphan_mappings": 2428669,
+    "strand_mapping_bias": 0.00000907584189061824,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 190,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 20934507,
+    "SF": 1283743,
+    "SR": 1144736,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596908845244.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1655538526",
+    "id" : "1BF2A561",
+    "lastKnownWriteTime" : 1589353072,
+    "last_content_update" : 1589353072,
+    "path" : "/Volumes/MiniDrive/Dropbox/daugherty-lab/ChrisRNA/DESeq2.R",
+    "project_path" : "DESeq2.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

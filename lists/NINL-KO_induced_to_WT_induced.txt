@@ -1,0 +1,7 @@
+SamNum	SamName	Project	Run	Condition
+1	Induced_A549_1	SEQ0001	A549_induced_1_quant	WT_induced
+2	Induced_A549_2	SEQ0001	A549_induced_2_quant	WT_induced
+3	Induced_A549_3	SEQ0001	A549_induced_3_quant	WT_induced
+7	Induced_RPM252_1	SEQ0001	RPM252_induced_1_quant	NINL-KO_induced
+8	Induced_RPM252_2	SEQ0001	RPM252_induced_2_quant	NINL-KO_induced
+9	Induced_RPM252_3	SEQ0001	RPM252_induced_3_quant	NINL-KO_induced

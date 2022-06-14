@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.3.0",
+    "index": "/home/bryantc/data/chrisRNA/indices/hg38_index",
+    "libType": "A",
+    "mates1": "/home/bryantc/scratch/sequencingDataStorage/chrisRNA/RPM252_Untreated_Rep_3_S38_L003_R1_001.fastq.gz",
+    "mates2": "/home/bryantc/scratch/sequencingDataStorage/chrisRNA/RPM252_Untreated_Rep_3_S38_L003_R2_001.fastq.gz",
+    "threads": "24",
+    "validateMappings": [],
+    "gcBias": [],
+    "output": "/home/bryantc/scratch/chrisRNA/RPM252_uninduced_3_quant",
+    "auxDir": "aux_info"
+}

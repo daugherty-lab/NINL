@@ -1,0 +1,67 @@
+if (!requireNamespace("BiocManager", quietly = TRUE))#
+    install.packages("BiocManager", repos='http://cran.us.r-project.org')#
+BiocManager::install(version = "3.11")#
+#
+# R script for DESeq2 processing of 1#
+knitr::opts_chunk$set(tidy=FALSE, cache=TRUE,#
+                      dev="png",#
+                      message=FALSE, error=FALSE, warning=TRUE)#
+options(scipen = 5) # scientific notation for plotting later#
+#
+packages <- c("reshape", "ggplot2", "ggrepel", "DEGreport", "RColorBrewer", "DESeq2", "pheatmap")#
+if (length(setdiff(packages, rownames(installed.packages()))) > 0) {#
+  install.packages(setdiff(packages, rownames(installed.packages())), repos='http://cran.us.r-project.org')  #
+}#
+#
+#library(reshape)#
+#library(ggplot2)#
+#library(ggrepel)#
+#library(DEGreport)#
+#library(RColorBrewer)#
+#library(DESeq2)#
+#library(pheatmap)#
+#install.packages("data.table", dependencies=TRUE)#
+suppressPackageStartupMessages(library('GenomicFeatures'))#
+#
+setwd(..)#
+##  ----config---- #
+species <- 'albopictus'#
+#
+##----making an tx2gene for Ae. albopictus------------ #
+txdb <-makeTxDbFromGFF("Homo_sapiens.GRCh38.100.gff")#
+keytypes(txdb)#
+k <- keys(txdb, keytype = "GENEID")#
+df <- select(txdb, keys = k,  columns = "TXNAME", keytype = "GENEID")#
+tx2gene <- df[, 2:1]#
+head(tx2gene)#
+write.csv(tx2gene, paste0("tx/", species, "_tx2gene.csv"), row.names = FALSE)
+a
+a#
+a
+a#
+a#
+a
+a#
+a#
+a#
+a
+a#
+a#
+a#
+a#
+a
+a#
+a#
+a#
+a#
+a
+a#
+a#
+a#
+a#
+a
+a#
+a#
+a#
+a#
+a

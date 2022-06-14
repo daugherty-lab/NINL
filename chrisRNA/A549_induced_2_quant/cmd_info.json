@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.3.0",
+    "index": "/home/bryantc/data/chrisRNA/indices/hg38_index",
+    "libType": "A",
+    "mates1": "/home/bryantc/scratch/sequencingDataStorage/chrisRNA/A549_100_u_IFNa_Rep_2_S34_L003_R1_001.fastq.gz",
+    "mates2": "/home/bryantc/scratch/sequencingDataStorage/chrisRNA/A549_100_u_IFNa_Rep_2_S34_L003_R2_001.fastq.gz",
+    "threads": "24",
+    "validateMappings": [],
+    "gcBias": [],
+    "output": "/home/bryantc/scratch/chrisRNA/A549_induced_2_quant",
+    "auxDir": "aux_info"
+}
