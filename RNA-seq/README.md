@@ -1,10 +1,10 @@
-# RNA-seq processing for Chris
+# RNA-seq processing for Stevens and Beierschmitt et al., <b>Antiviral function and viral antagonism of the rapidly evolving dynein activating adapter NINL</b>. in review at <i>eLife</i>.
 
 ## Protocol
 
 ### RNA-seq
-- RNA sequencing libraries were prepared with ??? (likely an Illumina TruSeq Stranded mRNA kit)
-- Paired-end RNA-seq was performed on an Illumina ??? (likely Illumina NovaSeq 6000)
+- RNA sequencing libraries were prepared with Illumina TruSeq Stranded mRNA kit
+- Paired-end RNA-seq was performed on an Illumina NovaSeq 6000
 
 
 ### Transcript Quantification and Differential Expression Analysis
