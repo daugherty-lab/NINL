@@ -1,5 +1,7 @@
 # RNA-seq processing
-for Stevens and Beierschmitt et al., <b>Antiviral function and viral antagonism of the rapidly evolving dynein activating adapter NINL</b>. in review at <i>eLife</i>.
+From Bryant Cao, Daugherty Lab, University of California, San Diego, La Jolla, California
+
+For Stevens and Beierschmitt et al., <b>Antiviral function and viral antagonism of the rapidly evolving dynein activating adapter NINL</b>. in review at <i>eLife</i>.
 
 ## Protocol
 

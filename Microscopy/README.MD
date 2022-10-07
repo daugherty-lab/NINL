@@ -1,5 +1,7 @@
-# Microscopy scripts (from Reck-Peterson Lab)
-for Stevens and Beierschmitt et al., <b>Antiviral function and viral antagonism of the rapidly evolving dynein activating adapter NINL</b>. in review at <i>eLife</i>.
+# Microscopy scripts
+Written for ImageJ by Dr. Hiroyuki Hakozawki, Nikon Imaging Center at UC San Diego, University of California, San Diego, La Jolla, CA, United States
+
+For Stevens and Beierschmitt et al., <b>Antiviral function and viral antagonism of the rapidly evolving dynein activating adapter NINL</b>. in review at <i>eLife</i>.
 
 # Basic Description
 ## Folders
